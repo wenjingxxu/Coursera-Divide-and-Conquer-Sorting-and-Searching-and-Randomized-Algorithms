@@ -1,4 +1,4 @@
-Specialization of Algorithms in Coursera by Tim Roughgarden and Stanford University.
+# Specialization of Algorithms in Coursera by Tim Roughgarden and Stanford University.
 
 Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 
